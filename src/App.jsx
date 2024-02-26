@@ -6,7 +6,9 @@ function App() {
       className=" w-[100vw] h-[100vh] flex items-center justify-center text-center bg-cover"
       style={{
         backgroundImage:
-          "url('https://cdn.oneesports.gg/cdn-data/2022/11/MW2_Ghost_Face_2-1024x576.jpg')",
+          "url('https://i.pinimg.com/originals/0c/0c/d6/0c0cd6208e146749324e8fbd08d05102.gif')",
+        backgroundSize: 'cover',
+        backgroundPosition: 'center',
       }}
     >
       <Card />
